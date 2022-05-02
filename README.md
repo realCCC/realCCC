@@ -8,8 +8,7 @@
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-red?style=for-the-badge&logo=html5&logoColor=ffffff" />
   <img alt="css3" src="https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=CSS3" />
-  <img alt="javascrpit"
-    src="https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JAVASCRIPT&logoColor=black" />
+  <img alt="javascrpit" src="https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JAVASCRIPT&logoColor=black" />
   <img alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
