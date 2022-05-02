@@ -3,7 +3,7 @@
   Country : Korea <br>
   age : 25
 </p>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"
+<img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"
   width="500" height="320" /> <br>
 <h2 align>MY tech stack📚</h2>
 <p>
