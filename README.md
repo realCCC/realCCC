@@ -1,7 +1,11 @@
 # Developer Jein-Jeon
+
+[![Instagram Badge](https://img.shields.io/badge/-@__jessicaalim-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)](https://instagram.com/zz.ii282)
+[![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:wpdls2821@gmail.com)
+
 <p>
-  **Country : Korea <br>**
-  **age : 25**
+  Country : Korea <br>
+  age : 25
 </p>
 <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"
   width="500" height="320" /> <br>
