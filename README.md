@@ -1,7 +1,7 @@
 # Developer Jein-Jeon
 
-[![Instagram Badge](https://img.shields.io/badge/-@__jessicaalim-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)](https://instagram.com/zz.ii282)
-[![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:wpdls2821@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-@zz.ii282-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/zz.ii282/)](https://instagram.com/zz.ii282)
+[![Gmail Badge](https://img.shields.io/badge/wpdls2821@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:wpdls2821@gmail.com)](mailto:wpdls2821@gmail.com)
 
 <p>
   Country : Korea <br>
