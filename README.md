@@ -17,14 +17,10 @@
 
 ## MY SNS📲
 
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=realCCC&postId=&theme=default)](https://real-ccc.tistory.com/)
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/realCCC)
+[![Tistory's Badge](https://img.shields.io/badge/Tistory-orange?style=flat&logo=tistory&logoColor=white)](https://real-ccc.tistory.com/)
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/realCCC)
 [![Instagram Badge](https://img.shields.io/badge/-@zz.ii282-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/zz.ii282/)](https://instagram.com/zz.ii282)
 [![Gmail Badge](https://img.shields.io/badge/wpdls2821@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:wpdls2821@gmail.com)](mailto:wpdls2821@gmail.com)
-
-
-<a href="https://github.com/realCCC">
-  <img alt="github" src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white> </a>
   
 ## Github Stats ✌
 ![realCCC's Github Stats](https://github-readme-stats.vercel.app/api?username=realCCC&count_private=true&show_icons=true&include_all_commits=true)  
