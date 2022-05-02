@@ -1,13 +1,8 @@
 # 😎😎Developer Jein-Jeon😎😎
 
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=realCCC&postId=&theme=default)](https://real-ccc.tistory.com/) <br>
-[![Instagram Badge](https://img.shields.io/badge/-@zz.ii282-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/zz.ii282/)](https://instagram.com/zz.ii282)
-[![Gmail Badge](https://img.shields.io/badge/wpdls2821@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:wpdls2821@gmail.com)](mailto:wpdls2821@gmail.com)
 
-<p>
-  Country : Korea <br>
-  age : 25
-</p>
+
+
 <img alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" /> <br>
 <h2 align>MY tech stack📚</h2>
 <p>
@@ -21,6 +16,12 @@
 <hr>
 
 ## MY SNS📲
+
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=realCCC&postId=&theme=default)](https://real-ccc.tistory.com/)
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](mailto:wpdls2821@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-@zz.ii282-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/zz.ii282/)](https://instagram.com/zz.ii282)
+[![Gmail Badge](https://img.shields.io/badge/wpdls2821@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:wpdls2821@gmail.com)](mailto:wpdls2821@gmail.com)
+
 
 <a href="https://github.com/realCCC">
   <img alt="github" src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white> </a>
