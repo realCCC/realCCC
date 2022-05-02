@@ -4,7 +4,7 @@
   age : 25
 </p>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"
-  width="500" height="320" />
+  width="500" height="320" /> <br>
 <h2 align>MY tech stack📚</h2>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-red?style=for-the-badge&logo=html5&logoColor=ffffff" />
