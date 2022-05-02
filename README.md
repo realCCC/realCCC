@@ -1,4 +1,4 @@
-<h1 align=center>Developer Jein-Jeon</h1>
+##Developer Jein-Jeon##
 <p>
   Country : Korea <br>
   age : 25
@@ -16,7 +16,7 @@
 </p>
 <hr>
 
-<h2 align>MY SNS📲</h2>
+##MY SNS📲##
 
 <a href="https://github.com/realCCC">
   <img alt="github" src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white> </a>
