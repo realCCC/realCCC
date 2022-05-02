@@ -1,7 +1,7 @@
 # Developer Jein-Jeon
 <p>
-  Country : Korea <br>
-  age : 25
+  **Country : Korea <br>**
+  **age : 25**
 </p>
 <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true"
   width="500" height="320" /> <br>
