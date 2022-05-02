@@ -1,5 +1,6 @@
 # 😎😎Developer Jein-Jeon😎😎
 
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=realCCC&postId=&theme=default)](https://real-ccc.tistory.com/) <br>
 [![Instagram Badge](https://img.shields.io/badge/-@zz.ii282-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/zz.ii282/)](https://instagram.com/zz.ii282)
 [![Gmail Badge](https://img.shields.io/badge/wpdls2821@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:wpdls2821@gmail.com)](mailto:wpdls2821@gmail.com)
 
