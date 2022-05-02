@@ -18,7 +18,7 @@
 ## MY SNS📲
 
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=realCCC&postId=&theme=default)](https://real-ccc.tistory.com/)
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](mailto:wpdls2821@gmail.com)
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/realCCC)
 [![Instagram Badge](https://img.shields.io/badge/-@zz.ii282-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/zz.ii282/)](https://instagram.com/zz.ii282)
 [![Gmail Badge](https://img.shields.io/badge/wpdls2821@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:wpdls2821@gmail.com)](mailto:wpdls2821@gmail.com)
 
