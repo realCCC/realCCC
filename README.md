@@ -1,24 +1,28 @@
 # Jein-Jeon
 
 
+
 <h2 align>MY tech stack📚</h2>
 <p>
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-red?style=for-the-badge&logo=html5&logoColor=ffffff" />
-  <img alt="css3" src="https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=CSS3" />
-  <img alt="javascrpit" src="https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JAVASCRIPT&logoColor=black" />
-  <img alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-red?style=for-the-badge&logo=html5&logoColor=ffffff" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=CSS3" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" />
+  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white" />
 </p>
 <hr>
 
 ## Tools
 
-![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
+[<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=flat&logo=Eclipse%20IDE&logoColor=white" height="25">](https://www.eclipse.org/ide/)
+[<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat&logo=Visual%20Studio%20Code&logoColor=white" height="25">](https://code.visualstudio.com/)
+[<img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=flat&logo=Android%20Studio&logoColor=white" height="25">](https://developer.android.com/studio)
+[<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" height="25">](https://spring.io/)
+
+
+
+
 
 ## MY SNS📲
 
